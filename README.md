@@ -7,7 +7,7 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, MySQL, Java 💻
+- **Lenguajes de Programación:** HTML, CSS, JavaScript, MySQL, Java, kotlin, Python, C# 💻
 - **Desarrollo Web:** Experiencia en el diseño y desarrollo de aplicaciones web utilizando HTML, CSS y JavaScript. 🌐
 - **Base de Datos:** Experiencia en el manejo de bases de datos MySQL, con conocimientos en el diseño y optimización de bases de datos. 📊
 - **Java:** Experiencia en el desarrollo de aplicaciones utilizando Java, con un enfoque en la programación orientada a objetos. 💡
